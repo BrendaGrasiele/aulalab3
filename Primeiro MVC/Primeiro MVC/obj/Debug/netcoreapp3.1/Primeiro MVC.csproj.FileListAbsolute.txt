@@ -1,0 +1,38 @@
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.exe
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.deps.json
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.runtimeconfig.json
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.runtimeconfig.dev.json
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.dll
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.pdb
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.Views.dll
+C:\Users\Thorne\source\repos\Primeiro MVC\bin\Debug\netcoreapp3.1\Primeiro MVC.Views.pdb
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.csproj.AssemblyReference.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.AssemblyInfoInputs.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.AssemblyInfo.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.csproj.CoreCompileInputs.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.RazorAssemblyInfo.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.RazorAssemblyInfo.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\staticwebassets\Primeiro MVC.StaticWebAssets.Manifest.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\staticwebassets\Primeiro MVC.StaticWebAssets.xml
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\Primeiro MVC.styles.css
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.TagHelpers.input.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.TagHelpers.output.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.RazorCoreGenerate.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.Views.pdb
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.dll
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.pdb
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.genruntimeconfig.cache
+C:\Users\Thorne\source\repos\Primeiro MVC\obj\Debug\netcoreapp3.1\Primeiro MVC.csproj.CopyComplete
